@@ -54,3 +54,15 @@ body {
 .content-write .icon img {
   width: 40px;
 }
+.content .content-write .btn button {
+  padding: .7rem 2.5rem;
+  border-radius: 1rem;
+  background: transparent;
+  border: 1px solid gray;
+  color: white;
+  transition: .5s;
+}
+.content .content-write .btn button:hover {
+background-color: black;
+border: none;
+}
